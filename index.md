@@ -23,7 +23,7 @@ Southern Research is committed to sharing our expertise in animal model developm
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Development-of-a-Zika-Virus-Infection.pdf">Koide, et al. (2016) Development of a Zika Virus Infection Model in Cynomolgus Macaques. Front. Microbiol. 7:2028. Open Access.</a></li>
-          <li><a href="http://www.sciencedirect.com/science/article/pii/S0166093416303275">Goebel, et al. (2016) A sensitive virus yield assay for evaluation of Antivirals against Zika Virus. Journal of Virological Methods. 238:13. Closed Access.</a></li>
+          <li><a href="http://www.sciencedirect.com/science/article/pii/S0166093416303275">Goebel, et al. (2016) A sensitive virus yield assay for evaluation of Antivirals against Zika Virus. Journal of Virological Methods. 238:13. Closed Access-ScienceDirect.</a></li>
       </ul>
   </div>
 </div>
