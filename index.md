@@ -43,9 +43,10 @@ Southern Research is committed to sharing our expertise in animal model developm
       </ul>
   </div>
 </div>
----
 
-Parts of this web site are licensed under
-[CC BY](http://creativecommons.org/licenses/by/3.0/). Attribution is required.
+<div>
+<h3>Parts of this web site are licensed under
+<a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0. </a>Attribution is required.</h3>
 
-[![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+<img src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="CC BY 3.0" title="CC BY 3.0"/>
+</div>
