@@ -13,7 +13,7 @@ Southern Research is committed to sharing our expertise in animal model developm
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">Cynomolgus Macaque Model (Description and summary graphs)</a></li>
-          <li><a href="{{ BASE_PATH }}/assets/rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
           <li><a href="http://www.southernresearch.org/news/ag129-mouse-model/">AG129 Mouse Model (Description and summary graphs)</a></li>
       </ul>
   </div>
