@@ -1,5 +1,5 @@
 <div>
-<center><img src="assets/publpics/logo.gif" alt="SR Logo" title="SR Logo"/></center>
+<center><img src="assets/publpics/logo.jpg" alt="SR Logo" title="SR Logo"/></center>
 </div>
 <center>
 # Southern Research Drug Development Division
