@@ -30,7 +30,7 @@ Our nationally recognized team of dedicated individuals provides expertise and s
 
         <div class="span2">
         <a href="../assets/publpics/logo.gif">
-            <center><img src="../assets/publpics/logo.gif"
+            <center><img src="../assets/publpics/logo.jpg"
             title="Southern Research" alt="Southern Research"/></center></a>
         </div>
     </div>
