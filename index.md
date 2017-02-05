@@ -8,7 +8,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://bit.ly/SR-Zika">get data release updates</a></li>
+          <li><a href="http://bit.ly/SR-Zika">get data release updates</a></li>
           <li><a href="https://github.com/Southern-Research">github</a></li>
           <li><a href="http://www.linkedin.com/company/southernresearch">linkedin</a></li>
           <li><a href="https://twitter.com/SoResearchNews">@SoResearchNews</a></li>
@@ -21,7 +21,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
 <tr>
   <td class="left">
     <a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">
-        <img src="assets/publpics/Cyno.png" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
+        <img src="assets/publpics/Cyno.png_small" alt="Cynomolgus Macaque" title="Cynomolgus Macaque"/>
     </a>
   </td>
   <td class="right">
