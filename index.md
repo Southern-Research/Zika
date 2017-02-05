@@ -8,7 +8,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="http://bit.ly/SR-Zika">get data release updates</a></li>
+          <li><a href="bit.ly/SR-Zika">get data release updates</a></li>
           <li><a href="https://github.com/Southern-Research">github</a></li>
           <li><a href="http://www.linkedin.com/company/southernresearch">linkedin</a></li>
           <li><a href="https://twitter.com/SoResearchNews">@SoResearchNews</a></li>
