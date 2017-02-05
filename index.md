@@ -16,7 +16,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
       </ul>
   </div>
 </div>
-
+<h2>Click on the images or links below for related data</h2>
 <table class="wide">
 <tr>
   <td class="left">
