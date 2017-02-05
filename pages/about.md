@@ -16,12 +16,12 @@ Our nationally recognized team of dedicated individuals provides expertise and s
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<a name="contact"></a>
 
     <div class="row-fluid">
         <div class="span5">
-            <a href="http://www.southernresearch.org/drug-development/">Drug Development Division</a><br/>
-            <a href="http://www.southernresearch.org">Southern Research</a><br/>
+            <a href="http://www.southernresearch.org/contact-us/drug-development-contacts/">Contact Us</a><br/>
+         
 
             <div id="hide_email">
             Email: <code>Drug</code><b>Please</b><code>Development</code><b>don't</b><code>@</code><b>spam</b><code>Southern</code><b>us!</b><code>Research.org</code><br/>
@@ -29,8 +29,8 @@ Our nationally recognized team of dedicated individuals provides expertise and s
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/logo.jpg">
-            <center><img src="../assets/pics/logo.gif"
+        <a href="../assets/publpics/logo.gif">
+            <center><img src="../assets/publpics/logo.gif"
             title="Southern Research" alt="Southern Research"/></center></a>
         </div>
     </div>
