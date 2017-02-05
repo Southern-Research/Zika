@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 title: Open Access Zika Data Repository
 description: Southern Research is committed to sharing our expertise and our internal R&D data with the Zika community. 
 keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
@@ -7,6 +7,7 @@ keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
 <div>
 <center><img src="assets/publpics/SR-Horz_tagline_For PRINT.jpg" alt="SR Logo" title="SR Logo"/></center>
 </div>
+<h1>Open Access Zika Data Repository</h1>
 Southern Research is committed to sharing our expertise in animal model development and our internal R&D data with the Zika community. The current release includes basic descriptions and summary graphs/tables for the Cynomolgus Macaque and AG129 Mouse models as well as raw data for the Rhesus Macaque data. You can find an overview of our Zika virus program on our [website](http://www.southernresearch.org/zika-virus/). Our goal is to update this repository to include a full description, summary graphics, and raw data for each model as expiditiously as possible. [Sign up for updates here.](http://eepurl.com/czr6sv) 
 
 
@@ -16,7 +17,8 @@ Southern Research is committed to sharing our expertise in animal model developm
       <ul class="nav">
           <li><a href="http://www.southernresearch.org/news/southern-research-demonstrates-zika-virus-infection-in-cynomolgus-macaques/">Cynomolgus Macaque Model (Description and summary graphs)</a></li>
           <li><a href="{{ BASE_PATH }}/assets/Rhesus_020417.pdf">Rhesus Macaque Model (Raw Data)</a></li>
-          <li><a href="http://www.southernresearch.org/news/ag129-mouse-model/">AG129 Mouse Model (Description and summary graphs)</a></li>
+          <li><a href="http://www.southernresearch.org/news/ag129-mouse-model/">AG129 Mouse Model (Description and summary graphs)</a>
+          <li><i>in vitro</i> screening is available. See Goebel, et al. (2016) below. Please contact us for details. (Data coming soon).</li>
       </ul>
   </div>
 </div>
@@ -41,3 +43,9 @@ Southern Research is committed to sharing our expertise in animal model developm
       </ul>
   </div>
 </div>
+---
+
+Parts of this web site are licensed under
+[CC BY](http://creativecommons.org/licenses/by/3.0/). Attribution is required.
+
+[![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
