@@ -24,16 +24,14 @@ Our nationally recognized team of dedicated individuals provides expertise and s
             <a href="http://www.southernresearch.org">Southern Research</a><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>Drug</code><b>Please</b><code>Development</code><b>don't</b><code>@</code><b>spam</b><code>Southern</code><b>us!</b><code>Research.org</code><br/>
             </div>
         </div>
 
         <div class="span2">
         <a href="../assets/pics/logo.jpg">
-            <img src="../assets/pics/logo.jpg"
-                  title="Southern Research" alt="Southern Research"/></a>
+            <center><img src="../assets/pics/logo.gif"
+            title="Southern Research" alt="Southern Research"/></center></a>
         </div>
     </div>
 </div>
