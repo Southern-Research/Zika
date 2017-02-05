@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 title: Southern Research Zika Data Repository
 description: Southern Research is committed to sharing our expertise and our internal R&D data with the Zika community. 
 keywords: Southern Research, Zika Virus, Arbovirus, CRO, Open Data
