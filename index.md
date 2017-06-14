@@ -20,9 +20,7 @@ Southern Research is committed to sharing our expertise in animal model developm
           <li><a href="{{ BASE_PATH }}/assets/Rhesus_030617.pdf">Rhesus Macaque Model (Raw Data Update)</a></li>
           <li><a href="http://www.southernresearch.org/news/ag129-mouse-model/">AG129 Mouse Model (Description and summary graphs)</a>
           <li><i>in vitro</i> screening is available. See Goebel, et al. (2016) below. Please contact us for details. (Data coming soon).</li>
-      </ul>
-  </div>
-</div>
+     
 <h2>Publications</h2>
 <div class="navbar">
   <div class="navbar-inner">
